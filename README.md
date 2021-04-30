@@ -1,6 +1,8 @@
 # Deep-Learning-Chicken-Detection
 An ML.NET machine learning model for detecting chickens with a high succes rate
 
+![download](https://user-images.githubusercontent.com/54542639/116636201-8f637780-a915-11eb-82a0-cc44b8a5cc65.png)
+
 
 ## Required: 
 - Visual Studio 2019
