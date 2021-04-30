@@ -15,6 +15,7 @@ and select Add > Machine learning.
 
 ### Some good tutorials/resources: 
 https://docs.microsoft.com/en-us/dotnet/machine-learning/tutorials/image-classification
+
 https://youtu.be/T94YH7_mx3E
 
 Then follow the steps and BAM... You have a Deep learning model. 
